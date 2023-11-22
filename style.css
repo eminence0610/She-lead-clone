@@ -1,0 +1,100 @@
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.program{
+    display: none;
+}
+.logo{
+    padding-bottom: 50px;
+}
+#hand {
+    width: 50%;
+    height: 120px;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    padding: 12px 6px;
+}
+#rat222{
+    display: none;
+}
+.venture{
+    padding: 0 60px;
+}
+.cnbc {
+    padding-left: 50px;
+}
+.made {
+    padding-right: 50px;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+    font-size: 12px;
+}
+.reach {
+    margin: 0 40px;
+}
+.goal{
+    border: 1px solid white;
+    justify-content: space-around;
+    padding-top: 30px;
+    margin-left: 30px;
+    padding-left: 40px;
+    padding-right: 60px;
+    margin-right: 10px;
+    padding-bottom: 30px;
+}
+
+.smart {
+    position: absolute;
+    transform: translateY(-250px);
+}
+
+.join {
+    position: absolute;
+    transform: translateY(-150px);
+}
+#join {
+    transform: translate(-500px,-150px);
+}
+
+
+.smart {
+    transform: translate(-200px,-300px);
+    font-size: 60px;
+}
+
+.round{
+    
+    width: 150%!important;
+    background-color: azure;
+    
+
+}
+.MMI{
+    padding-left: 100px;
+}
+.HGCP{
+    padding-right: 100px;
+}
+.slay {
+    padding-left: 100px;
+}
+.career {
+    padding-right: 200px;
+    padding-top: 200px;
+}
+.festival {
+    padding-right: 200px;
+    padding-top: 200px;
+
+}
+.coach{
+    padding-left: 200px;
+    padding-top: 200px;
+}
