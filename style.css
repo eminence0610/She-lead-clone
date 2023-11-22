@@ -42,12 +42,9 @@
 .goal{
     border: 1px solid white;
     justify-content: space-around;
-    padding-top: 30px;
     margin-left: 30px;
-    padding-left: 40px;
-    padding-right: 60px;
     margin-right: 10px;
-    padding-bottom: 30px;
+    padding: 30px 60px 30px 40px;
 }
 
 .smart {
@@ -70,11 +67,8 @@
 }
 
 .round{
-    
     width: 150%!important;
     background-color: azure;
-    
-
 }
 .MMI{
     padding-left: 100px;
@@ -86,15 +80,14 @@
     padding-left: 100px;
 }
 .career {
-    padding-right: 200px;
-    padding-top: 200px;
+    padding: 200px 200px 0px 0px;
 }
 .festival {
-    padding-right: 200px;
-    padding-top: 200px;
-
+    padding: 200px 200px 0px 0px;
 }
 .coach{
-    padding-left: 200px;
-    padding-top: 200px;
+    padding: 200px 0px 0px 200px;
+}
+#business {
+    font-size: 15px;
 }

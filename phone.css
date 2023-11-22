@@ -4,8 +4,6 @@
     .cat{
         display: none;
     }
- 
-
     #main {
         height: 20px;
         width: 80px;
@@ -18,13 +16,6 @@
         padding-right: 350px;
         font-size: 20px;
     }
-
-    .door {
-        display: grid;
-    }
-    .raid {
-        display: block;
-    }
     .navbar-toggler {
         height: 30px;
         padding: 0;
@@ -33,26 +24,13 @@
         width: 40%;
     }
     .start {
-
         font-size: 30px;
         text-align: center;
-        /* padding-left: 30px; */
     }
-
-
     .venture{
         padding: 0px 30px 10px;
     }
-    .cnbc {
-        padding-left: 30px;
-        padding-bottom: 10px;
-    }
-    .made {
-        padding-right: 20px;
-        padding-bottom: 10px;
-        padding-left: 15px;
-    }
-    
+  
     .sahara {
         width: 150px;
         padding-bottom: 10px;
@@ -71,22 +49,24 @@
         font-size: 10px;
     }
     .sla{
-        width: 60px;
-        height: 40px;
-        padding-left: 10px;
+        width: 70px;
+        height: 55px;
+        padding: 0px 0px 20px 10px;
     }
     .event{
         margin: 0;
         padding: 0;
         text-align: center;
     }
+    #photo{
+        height: 400px;
+    }
     #hand {
         width: 100%;
         height: 120px;
     }
     .gate {
-        transform: translate(-80px, 50px);
-       
+        transform: translate(-80px, 50px);   
         font-size: 10px;
     }
     .young {
@@ -94,52 +74,41 @@
         margin: 0;
     }
     .small {
-        /* padding-left: 10px; */
-        width: 200px;
+        width: 250px;
     }
     .need{
-        /* padding-left: 10px; */
-        width: 200px;
+        width: 250px;
     }
     .high{
-        width: 300px;
-        padding-left: 100px;
-        /* height: 200px; */
+        width: 350px;
+        padding-left: 60px;
     }
     footer{
         padding: 0;
         margin: 0;
-
     }
     .program {
         display: block;
-        padding-right: 0px;
-        padding-top: 20px;
         text-align: center;
-
-        padding-bottom: 30px;
+        padding: 20px 0px 30px;
     }
     .festival {
-        padding-right: 0px;
-        padding-top: 20px;
         text-align: center;
+        padding: 20px 0px 0px;
     }
     .career {
-        padding-right: 0px;
-        padding-top: 20px;
         text-align: center;
-        padding-bottom: 30px;
+        padding: 20px 0px 30px;
     }
     .coach{
         display: none;
 
     }
     .smart {
-        transform: translate(-40px,-50px);
-        font-size: 20px;
+        transform: translate(-10px,-170px);
+        font-size: 30px;
     }
     .plug{
-        /* padding-left: 130px; */
         font-size: 30px;
         text-align: center;
     }
@@ -149,10 +118,8 @@
     }
     .goal{
         border: 1px solid white;
-        margin-left: 0px;
-        margin-right: 0px;
         padding: 30px 60px 30px 40px;
-        margin-bottom: 25px;
+        margin: 0px 0px 25px;
     }
 
     
