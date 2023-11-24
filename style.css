@@ -9,6 +9,13 @@
 .logo{
     padding-bottom: 50px;
 }
+.mini{
+padding: 0 60px;
+}
+.forbe{
+    padding: 0px 60px;
+}
+
 #hand {
     width: 50%;
     height: 120px;
