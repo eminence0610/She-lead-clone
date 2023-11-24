@@ -121,6 +121,14 @@
         padding: 30px 60px 30px 40px;
         margin: 0px 0px 25px;
     }
+    #business{
+        font-size: 10px;
+        padding-left: 10px;
+    }
+    .reserve{
+        font-size: 10px;
+        padding-left: 10px;
+    }
 
     
 }
