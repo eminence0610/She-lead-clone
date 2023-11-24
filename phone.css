@@ -7,6 +7,7 @@
     #main {
         height: 20px;
         width: 80px;
+
     }
     .plug {
         padding-right: 0px;
@@ -28,13 +29,17 @@
         text-align: center;
     }
     .venture{
-        padding: 0px 30px 10px;
+        padding: 0px 15px 10px 30px;
     }
   
     .sahara {
         width: 150px;
         padding-bottom: 10px;
 
+    }
+    .mini{
+        padding-left: 60px;
+        padding-bottom: 5px;
     }
     #rat222{
         display: flex;
@@ -81,7 +86,7 @@
     }
     .high{
         width: 330px;
-        padding-left: 60px;
+        padding-left: 40px;
     }
     footer{
         padding: 0;
