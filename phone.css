@@ -38,8 +38,9 @@
 
     }
     .mini{
-        padding-left: 50px;
-        padding-bottom: 5px;
+        padding-left: 35px;
+        padding-right: 15px;
+        padding-bottom: 10px;
     }
     #rat222{
         display: flex;
